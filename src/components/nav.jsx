@@ -1,6 +1,6 @@
 import React from "react";
 
-let name =  <p className="text-yellow-400"> Kunal.In</p>
+// let name =  <h1 className="text-yellow-400"> Kunal.In</h1>
 function Nav(){
 return(
     <>
@@ -8,7 +8,9 @@ return(
     <div className="container mx-auto flex flex-col lg:flex-row justify-between items-center">
         <div className= "   text-white font-bold text-3xl mb-4 lg:mb-0 hover:text-orange-600 hover:cursor-pointer  "> 
             <h2 className="   font-bold ">
-                Console.log({name}) ;
+                <span>Console.log(</span>
+                <span className="text-orange-400">Kunal.in</span>
+                <span>)</span>
                 </h2>
         </div>
 
