@@ -16,7 +16,7 @@ function Insta(){
        
 
         <h2 class="max-w-2xl mx-auto  text-xl  text-white pb-3">
-        I am uploading  here some comprehensive content about Backend Development. This content covers various aspects, including the role of the backend, key technologies involved, and best practices."
+        I am uploading  here some comprehensive Content about Backend Development. This content covers various aspects, including the role of the backend, key technologies involved, and best practices."
         </h2> 
        
         <a href="https://www.instagram.com/backend_js/"
