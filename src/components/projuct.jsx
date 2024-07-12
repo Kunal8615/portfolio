@@ -9,7 +9,7 @@ function ProductSection({prop,col ,resource,val}) {
     </div>
     <div className= ' content-center justify-center pl-20'>
     
-<p class=" max-w-lg text-lg font-semibold leading-normal text-white">{val}</p>
+<p className=" max-w-lg text-lg font-semibold leading-normal text-white">{val}</p>
 
     </div>
 

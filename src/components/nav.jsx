@@ -1,21 +1,21 @@
 import React from "react";
 
-let name =  <para className="text-yellow-400"> Kunal.In</para>
+let name =  <p className="text-yellow-400"> Kunal.In</p>
 function Nav(){
 return(
     <>
     <nav className="  flex-wrap relative bg-stone-950 p-4 border-solid border-orange-500 border-b-2">
-    <div class="container mx-auto flex flex-col lg:flex-row justify-between items-center">
-        <div class= "   text-white font-bold text-3xl mb-4 lg:mb-0 hover:text-orange-600 hover:cursor-pointer  "> 
+    <div className="container mx-auto flex flex-col lg:flex-row justify-between items-center">
+        <div className= "   text-white font-bold text-3xl mb-4 lg:mb-0 hover:text-orange-600 hover:cursor-pointer  "> 
             <h2 className="   font-bold ">
                 Console.log({name}) ;
                 </h2>
         </div>
 
-        <div class="lg:hidden">
-            <button class="text-white focus:outline-none">
+        <div className="lg:hidden">
+            <button className="text-white focus:outline-none">
                     <svg
-                        class="h-6 w-6"
+                        className="h-6 w-6"
                         fill="none"
                         stroke="currentColor"
                         viewBox="0 0 24 24"

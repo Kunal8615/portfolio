@@ -18,7 +18,7 @@ function Research({prop,col,text,resourse,val}) {
     </div>
     <div className= ' mr-10 content-center justify-center pl-20'>
     
-<p class=" max-w-lg text-xl v font-semibold leading-normal text-white">{val}</p>
+<p className=" max-w-lg text-xl v font-semibold leading-normal text-white">{val}</p>
 
     </div>
     </div>
