@@ -15,7 +15,6 @@ import Collect from './components/collect'
 import Insta from './components/insta'
 
 
-
 function App() {
 
 
