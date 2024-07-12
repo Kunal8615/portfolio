@@ -20,13 +20,13 @@ function App() {
 
   return (
     <>
-    <div className='text-center flex-wrap'>
+    <div className='text-center flex-wrap '>
 
   <Nav></Nav>
     <div className='text-center mt-20 flex-wrap'>
     <Heading/>
     </div>
-    <Social></Social>
+    <Social/>
    <Insta></Insta>
     <Skill></Skill>
     <ProductSection prop={"flex"} val={"I am Kunal, currently in the 4th year of B.Tech with a specialization in Artificial Intelligence and Machine Learning at Dronacharya Group of Institutions. Throughout my studies, I have been actively engaged in various practical projects and internships, particularly in web development and AI applications. These experiences have allowed me to apply theoretical knowledge in real-world scenarios, enhancing my skills in developing innovative solutions. My goal is to contribute to technological progress by creating intelligent and efficient web applications that can solve complex problems and improve user experiences across various industries."} col={"black"}  resource={drona}></ProductSection>
