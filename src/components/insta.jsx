@@ -1,5 +1,5 @@
 import React from "react";
-import instaa from "../images/instaa.png"
+
 import imgg from "../images/imgg.png"
 
 function Insta(){
