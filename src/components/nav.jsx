@@ -6,7 +6,7 @@ return(
     <>
     <nav className="  flex-wrap relative bg-stone-950 p-4 border-solid border-orange-500 border-b-2">
     <div className="container mx-auto flex flex-col lg:flex-row justify-between items-center">
-        <div className= "   text-white font-bold text-3xl mb-4 lg:mb-0 hover:text-orange-600 hover:cursor-pointer  "> 
+        <div className= "   text-white font-bold text-3xl mb-4 lg:mb-0 hover:text-cyan-500  duration-75 hover:cursor-pointer  "> 
             <h2 className="   font-bold ">
                 <span>Console.log(</span>
                 <span className="text-orange-400">Kunal.in</span>

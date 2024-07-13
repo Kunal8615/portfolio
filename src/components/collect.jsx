@@ -4,7 +4,7 @@ function Collect() {
     return (
         <>
             {/* component */}
-            <div className=" flex-wrap bg-gradient-to-bl border 2 border-blue-900 bg-black flex items-center justify-center lg:h-screen">
+            <div className=" flex-wrap bg-gradient-to-bl border 2 border-blue-900 bg-black flex items-center justify-center p-10">
                 <div className="container mx-auto p-4">
                     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-4 gap-4">
                         {/* Replace this with your grid items */}

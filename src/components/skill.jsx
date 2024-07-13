@@ -21,7 +21,7 @@ function Skill() {
             >
             
             </svg>
-            <h2 className=" ml-64  text-2xl font-bold text-white md:text-5xl">
+            <h2 className="  lg:ml-64  text-2xl font-bold text-yellow-200 md:text-5xl">
               Skills
             </h2>
           </div>
