@@ -16,7 +16,7 @@ function Heading({prop}){
         I'm Kunal
     </h1>
 </div>
-<p className=" p-2 mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">B.Tech student with experience in JS, HTML, CSS, Graphic designing, gaming and programming languages like C and C++. Passionate about using technology to enhance user experience and solve real-world problems. Enthusiastic about exploring new technologies and ideas to stay ahead in the fast-paced tech industry.</p>
+<p className=" md:p-2 mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">B.Tech student with experience in JS, HTML, CSS, Graphic designing, gaming and programming languages like C and C++. Passionate about using technology to enhance user experience and solve real-world problems. Enthusiastic about exploring new technologies and ideas to stay ahead in the fast-paced tech industry.</p>
 <a href="https://www.linkedin.com/in/kunal-1a4983228/" className="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
     About Me !
     <svg className="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
