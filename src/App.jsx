@@ -10,6 +10,7 @@ import Research from './components/rearch'
 import img1 from "../src/images/main.jpg"
 import sih from "../src/images/sih.jpg"
 import Nav from './components/nav'
+import black from "../src/images/black.jpg"
 import drona from "../src/images/drona.jpg"
 import Collect from './components/collect'
 import Insta from './components/insta'
