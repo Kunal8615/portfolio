@@ -40,7 +40,7 @@ function App() {
    </div>
    <Collect></Collect>
     </div>
-    <Footer></Footer>
+    <Footer> </Footer>
     </>
   )
 }
